@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+esse é um site simples com alguns artigos sobre o chat gpt da open ia fiz acompanhando um tutorial do freecodecamp
 
 ## Available Scripts
 
